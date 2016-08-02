@@ -4,7 +4,7 @@ config = {
     user: 'ChuGiFtedScholAr',
     repo: 'nonsense',
     per_page: 1,
-    duoshuo_id: ''
+    duoshuo_id: '**'
 }
 
 var duoshuoQuery = {
