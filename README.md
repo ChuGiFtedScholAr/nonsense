@@ -6,6 +6,5 @@
 
 ### posts=>Backup
 
-  - [2016](/posts/2016)
-    + [08](/posts/2016/08)
-      - [This broken world.](/posts/2016/08/This-broken-world.md)
+  - [2016-08](/posts/2016/08)
+    + [This broken world.](/posts/2016/08/This-broken-world.md)
