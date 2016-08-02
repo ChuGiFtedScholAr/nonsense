@@ -8,4 +8,4 @@
 
   - [2016](/posts/2016)
     + [08](/posts/2016/08)
-      - [This broken world.](/posts/2016/08/this-broken-world.md)
+      * [This broken world.](/posts/2016/08/This-broken-world.md)
